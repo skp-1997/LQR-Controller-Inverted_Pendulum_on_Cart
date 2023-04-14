@@ -1,0 +1,8 @@
+prefix=/home/ses598/ros_ws/install
+
+Name: invpend_gazebo
+Description: Description of invpend_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

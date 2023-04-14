@@ -1,0 +1,8 @@
+prefix=/home/ses598/ros_ws/install
+
+Name: invpend_control
+Description: Description of invpend_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
