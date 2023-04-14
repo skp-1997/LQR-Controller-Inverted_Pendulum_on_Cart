@@ -50,4 +50,3 @@ rosrun invpend_control lqr_control.py
 Once simulation opens and lqr_control.py is running, right click on pole link and apply torque or force to test the model.
 Tweak the Q and R values in the script, to make the model performance more robust.
 
->>>>>>>
